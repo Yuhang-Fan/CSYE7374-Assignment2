@@ -66,6 +66,10 @@ Time examples:
 
 This project uses OpenAI's function calling (tool calling). Make sure your model supports this feature.
 
+You can view a demo of the chatbot using this link:
+
+https://studio.youtube.com/channel/UCYJwL5tbNol55s2Snh1hKQQ/videos/upload?d=ud&filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
+
 ## License
 
 This code is for educational use.
