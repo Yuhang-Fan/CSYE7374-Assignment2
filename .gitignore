@@ -1,0 +1,44 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# API keys and secrets
+.env
+config_secret.py
+
+# Compiled files
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.o
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.old
